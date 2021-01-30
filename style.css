@@ -1,0 +1,15 @@
+.container {
+    display: flex;
+    flex-flow: row wrap;
+    
+}
+
+.black-sq {
+    height: 140px;
+    width: 140px;
+    line-height: 140px;
+    text-align: center;
+    background-color: black;
+    margin: 15px;
+    color: cornsilk;
+}
